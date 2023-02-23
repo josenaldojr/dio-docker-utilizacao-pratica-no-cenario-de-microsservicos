@@ -1,2 +1,9 @@
-# dio-docker-utilizacao-pratica-no-cenario-de-microsservicos
-Docker: Utilização Prática no Cenário de Microsserviços
+# Descrição
+
+> Por: Denilson Bonatti (Instrutor, DIO)
+
+A tecnologia de Containers promete mudar a maneira como as operações de TI são realizadas, abstraindo ambientes de desenvolvimento e otimizando o consumo de recursos. Nesse contexto, conheça o Docker, implemente uma estrutura de Microsserviços com as melhores práticas do mercado internacional e ganhe independência entre aplicações e infraestrutura em mais um conteúdo exclusivo por aqui. Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+
+- Pré-requisito: Git, Docker, Microsserviços e Linux.
+- Formação: Back-End
+- Nível: Avançado
